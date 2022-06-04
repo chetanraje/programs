@@ -79,8 +79,7 @@ int main()
     {
         printf("Element Found & is Located at position '%d' as per sorted array.", mid+1);
     }
+    printf("\n\nCoded By T C R D E V");
     return 0;
-    
 }
 
-//Coded By Chetan Sapkal
